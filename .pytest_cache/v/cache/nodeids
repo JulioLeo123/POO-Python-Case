@@ -1,0 +1,7 @@
+[
+  "tests/test_sistema_ecommerce_refatorado.py::test_cliente_bloqueado_nao_pode_comprar",
+  "tests/test_sistema_ecommerce_refatorado.py::test_erro_cliente_inexistente",
+  "tests/test_sistema_ecommerce_refatorado.py::test_erro_estoque_insuficiente",
+  "tests/test_sistema_ecommerce_refatorado.py::test_pedido_cliente_premium_com_desconto",
+  "tests/test_sistema_ecommerce_refatorado.py::test_pedido_frete_gratuito_sp_acima_200"
+]
